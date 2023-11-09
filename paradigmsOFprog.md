@@ -1,6 +1,6 @@
 # Диаграмма парадигм программирования
 
-![img.png](img.png)
+![paridigmbl.jpg](images%2Fparidigmbl.jpg)
 
 ### Императивное программирование
 
